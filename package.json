@@ -3,11 +3,17 @@
     "displayName": "Nocterial Palenight",
     "description": "Noctis syntax highlighting with Material Palenight colors",
     "version": "0.0.1",
+    "publisher": "alexdauenhauer",
     "engines": {
         "vscode": "^1.54.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexdauenhauer/nocterial-palenight"
+    },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
     "contributes": {
         "themes": [
