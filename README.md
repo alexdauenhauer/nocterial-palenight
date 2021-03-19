@@ -1,5 +1,5 @@
 # Nocterial Palenight
-This theme takes Noctis syntax highlighting and replaces color scheme with Material Palenight. A bit of added personal flair as well. Enjoy!
+This theme takes Noctis syntax highlighting and replaces color scheme with Material Palenight. A bit of added personal flair as well and color scheme is tuned for python. Enjoy!
 
 ## Sample Images
 Python
