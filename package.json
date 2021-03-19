@@ -1,0 +1,21 @@
+{
+    "name": "nocterial-palenight",
+    "displayName": "Nocterial Palenight",
+    "description": "Noctis syntax highlighting with Material Palenight colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nocterial Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nocterial-palenight.json"
+            }
+        ]
+    }
+}
