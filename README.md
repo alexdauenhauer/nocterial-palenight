@@ -1,6 +1,6 @@
 # Nocterial Palenight
-![banner](images/banner.png)
-*banner and logo art by Eric Dauenhauer. Check out his other generative art and cool pieces at https://ericyd.com/generative-art/*
+![logo](images/main_logo.png)
+*logo by Eric Dauenhauer. Check out his other generative art and cool pieces at https://ericyd.com/generative-art/*
 ## TL,DR
 This theme takes Noctis syntax highlighting and replaces color scheme with Material Palenight. A bit of added personal flair as well and color scheme is tuned for python. Enjoy!
 
