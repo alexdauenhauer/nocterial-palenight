@@ -4,6 +4,11 @@
     "description": "Noctis syntax highlighting with Material Palenight colors",
     "version": "0.0.1",
     "publisher": "alexdauenhauer",
+    "icon": "images/main_logo.png",
+	"galleryBanner": {
+		"color": "#292d3e",
+		"theme": "dark"
+	},
     "engines": {
         "vscode": "^1.54.0"
     },
