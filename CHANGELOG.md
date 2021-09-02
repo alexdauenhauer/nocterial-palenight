@@ -1,5 +1,6 @@
 # Change Log
-
+## 1.0.4
+* remove editot.wordHighlight behavior until vscode fixes their jupyter problems
 ## 1.0.3
 * update editor.wordHighlight behavior and notebook cell borders
 ## 1.0.2
